@@ -1,7 +1,7 @@
 # MauiShellWrapperCrashOnStartupWithoutDebugger
 .NET 9 MAUI bug reproduction repository (9.0.50)
 
-Debug mode with debugger attached: OK
+Debug mode with debugger attached on Android 11 and 12: OK
 
 Debug mode without debugger attached: crash
 
